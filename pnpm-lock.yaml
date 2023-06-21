@@ -2,11 +2,11 @@ lockfileVersion: 5.4
 
 specifiers:
   '@amxx/graphprotocol-utils': settlemint/graphprotocol-utils#generated
-  lodash: 4.17.15
+  lodash: 4.17.21
 
 dependencies:
   '@amxx/graphprotocol-utils': github.com/settlemint/graphprotocol-utils/9d001f6fa9416d66b93de93981aa8884cc697620
-  lodash: 4.17.15
+  lodash: 4.17.21
 
 packages:
 
@@ -79,8 +79,8 @@ packages:
     engines: {node: '>=8'}
     dev: false
 
-  /lodash/4.17.15:
-    resolution: {integrity: sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==}
+  /lodash/4.17.21:
+    resolution: {integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==}
     dev: false
 
   /long/4.0.0:

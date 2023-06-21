@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "@amxx/graphprotocol-utils": "settlemint/graphprotocol-utils#generated",
-    "lodash": "4.17.15"
+    "lodash": "4.17.21"
   }
 }
